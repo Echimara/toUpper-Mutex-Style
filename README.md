@@ -1,8 +1,6 @@
-# toUpper: Mutex Version
+# toUpper: Mutex Style
 
-* This bash script monitors and reports who logs in to and out of whichever Linux machine the script is run on. <br>
-* Reports are printed every 10 seconds (if any) along with the date and number of logged-in users.  <br> 
-* A custom handler is present to trap the SIGINT or ctrl+C shortcut once before terminating the script. <br>
+Displays the power of mutex locks—programming tools that allow only one thread to access a shared resource at a time, preventing conflicts—by converting characters in a user-inputted sentence to uppercase via multi-threading. 
 
 
 <br>
