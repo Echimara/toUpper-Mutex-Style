@@ -1,4 +1,4 @@
-# toUpper: Mutex Style
+## toUpper: Mutex Style
 
 Displays the power of mutex locks—programming tools that allow only one thread to access a shared resource at a time, preventing conflicts—by converting characters in a user-inputted sentence to uppercase via multi-threading.  
 
